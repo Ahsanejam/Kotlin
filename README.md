@@ -9,4 +9,3 @@ then we learn how to build Application
 
 So Today I learn about variable , stringtamplets, and like little bit about functions..
 Then i go next chapter after completeing the exersices of this 
-..
